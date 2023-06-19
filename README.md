@@ -9,6 +9,25 @@ This is going to be hard, but it will also be FUN! This is your opportunity to f
 - Do I need to review the work BEFORE coming to class so that you have seen it can can come up with good questions before hand?
 - Do I need to learn how to speak up and ask questions during learning time?
 
+## Prerequisites
+- [Create a #GRiThub account](https://grithub.reppedintech.com/) to access the lessons
+- [Create a Github account](https://github.com/)
+- [Create a CodeSandbox account](https://codesandbox.io/) **using your Github Account**
+- [Create a Gitpod account](https://gitpod.io/) **using your Github Account**
+
+<details>
+  <summary>If using Gitpod, Open for more</summary>
+
+  1. [CLICK THIS LINK](https://githubtools.reppedintech.com/u/Repped-In-Tech/todo-app-beginners) to copy over the starter code to your Github account. After complete, select the "Open in Gitpod" option.
+
+  2. Authorize app
+  
+  On this initial time, you will need to authorize the application so that you can copy over the repo to your own Github profile. Scroll to the bottom of the popup window and Authorize the application.
+  
+  ![authorize-high](https://github.com/Repped-In-Tech/todo-app-beginners/assets/29741570/fbafecae-3539-49d8-aad9-f299b53c3505)
+
+</details>
+
 ## Course Outline
 NOTE: To access these lessons in [GRiThub](https://grithub.reppedintech.com/), you will have to create a FREE account and introduce yourself. This community is ONLY for diverse techbical creators AND allies. If you do not consider yourself and ally or do not value diversity, this is **NOT** the spot for you! 🤷🏽‍♀️
 
