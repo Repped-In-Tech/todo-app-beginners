@@ -17,4 +17,4 @@ NOTE: To access these lessons in [GRiThub](https://grithub.reppedintech.com/), y
 - [Session 3: Data, Iteration, and 🎯Targeting the DOM](https://grithub.reppedintech.com/c/learn-to-code/sections/68765/lessons/228079)
 - [Session 4: Filter Data using Javascript and Events](https://grithub.reppedintech.com/c/learn-to-code/sections/68765/lessons/228094)
 - [Session 5: CREATE, UPDATE using Functions and Events](https://grithub.reppedintech.com/c/learn-to-code/sections/68765/lessons/228087)
-- [Session 6: Github + Deploy App](https://grithub.reppedintech.com/c/learn-to-code/sections/68765/lessons/228095)https://grithub.reppedintech.com/c/learn-to-code/sections/68765/lessons/228095
+- [Session 6: Github + Deploy App](https://grithub.reppedintech.com/c/learn-to-code/sections/68765/lessons/228095)
